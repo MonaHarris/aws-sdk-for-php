@@ -1,8 +1,8 @@
-# AWS SDK for PHP - Version 1
+!!AWS SDK for PHP - Version 1
 
 ---
 
-**NOTE:** This is the repository for version 1 of the AWS SDK for PHP. The SDK was rewritten and moved to
+ *NOTE:** This is the repository for version 1 of the AWS SDK for PHP. The SDK was rewritten and moved to
 a new repository: <http://github.com/aws/aws-sdk-php>. We encourage you to 
 [upgrade to the latest](http://docs.aws.amazon.com/aws-sdk-php-2/guide/latest/migration-guide.html) 
 version of the AWS SDK for PHP.
@@ -27,7 +27,7 @@ For more information about the AWS SDK for PHP, including a complete list of sup
 [aws.amazon.com/sdkforphp](http://aws.amazon.com/sdkforphp).
 
 
-## Staying up-to-date!
+## Staying up-to-date 
 We tend to release new updates very frequently. In order to keep up with the newest features and the latest bug fixes,
 we encourage you to subscribe to our release announcements, and to keep your code current.
 
@@ -188,3 +188,4 @@ function.
 * Documentation: <http://docs.amazonwebservices.com/AWSSDKforPHP/latest/>
 * License: <http://aws.amazon.com/apache2.0/>
 * Discuss: <http://aws.amazon.com/forums>
+ 
